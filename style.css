@@ -7,11 +7,12 @@
     .cabecalho {
         background-color: #7e0000;
         padding: 20px;
-        text-align: center;
+        text-align: justify;
     }
 
-    .cabecalho-imagem {
+    .cabecalho-imagem  {
         max-width: 100px;
+    
     }
 
     .cabecalho-titulo {
