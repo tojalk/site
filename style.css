@@ -1,6 +1,6 @@
   .cabecalho {
       background-color: #000000;
-      color: hotpink;
+      color: maroon;
       display: flex;
       justify-content: space-around;
       padding: 5px;
@@ -19,9 +19,9 @@
   }
 
   .informacao {
-      background-color: aqua;
+      background-color: firebrick;
   }
 
   .precos {
-      background-color: aquamarine;
+      background-color: lightblue;
   }
